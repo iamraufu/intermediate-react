@@ -1,2 +1,1 @@
-"# intermediate-react" 
 # intermediate-react
